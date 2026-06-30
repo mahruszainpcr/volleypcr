@@ -1,0 +1,397 @@
+{
+  "version": 1,
+  "meta": {
+    "title": "PCR Volley League 25",
+    "subtitle": "Kompetisi Bola Voli Dies Natalis ke-25 Politeknik Caltex Riau",
+    "venue": "Sport Hall PCR",
+    "updatedAt": null
+  },
+  "teams": [
+    {
+      "id": "kuda-liar",
+      "name": "Kuda Liar",
+      "code": "KLI",
+      "accent": "#f59e0b",
+      "imageKey": "kuda",
+      "members": [],
+      "isDefault": true
+    },
+    {
+      "id": "elang-perkasa",
+      "name": "Elang Perkasa",
+      "code": "ELP",
+      "accent": "#d97706",
+      "imageKey": "elang",
+      "members": [],
+      "isDefault": true
+    },
+    {
+      "id": "kobra-hitam",
+      "name": "Kobra Hitam",
+      "code": "KBH",
+      "accent": "#a855f7",
+      "imageKey": "kobra",
+      "members": [],
+      "isDefault": true
+    },
+    {
+      "id": "singa-laut",
+      "name": "Singa Laut",
+      "code": "SGL",
+      "accent": "#2563eb",
+      "imageKey": "singa",
+      "members": [],
+      "isDefault": true
+    },
+    {
+      "id": "badak-baja",
+      "name": "Badak Baja",
+      "code": "BDB",
+      "accent": "#64748b",
+      "imageKey": "badak",
+      "members": [],
+      "isDefault": true
+    },
+    {
+      "id": "macan-putih",
+      "name": "Macan Putih",
+      "code": "MCP",
+      "accent": "#38bdf8",
+      "imageKey": "macan",
+      "members": [],
+      "isDefault": true
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "home": "kuda-liar",
+      "away": "elang-perkasa",
+      "sets": [
+        [
+          0,
+          15
+        ],
+        [
+          0,
+          15
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 2,
+      "home": "kobra-hitam",
+      "away": "singa-laut",
+      "sets": [
+        [
+          15,
+          10
+        ],
+        [
+          15,
+          10
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 3,
+      "home": "badak-baja",
+      "away": "macan-putih",
+      "sets": [
+        [
+          13,
+          15
+        ],
+        [
+          17,
+          15
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 4,
+      "home": "kuda-liar",
+      "away": "kobra-hitam",
+      "sets": [
+        [
+          12,
+          15
+        ],
+        [
+          8,
+          15
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 5,
+      "home": "elang-perkasa",
+      "away": "singa-laut",
+      "sets": [
+        [
+          6,
+          15
+        ],
+        [
+          15,
+          9
+        ],
+        [
+          15,
+          8
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 6,
+      "home": "badak-baja",
+      "away": "kuda-liar",
+      "sets": [
+        [
+          8,
+          15
+        ],
+        [
+          9,
+          15
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 7,
+      "home": "macan-putih",
+      "away": "elang-perkasa",
+      "sets": [
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 8,
+      "home": "kobra-hitam",
+      "away": "badak-baja",
+      "sets": [
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 9,
+      "home": "singa-laut",
+      "away": "macan-putih",
+      "sets": [
+        [
+          13,
+          15
+        ],
+        [
+          13,
+          15
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 10,
+      "home": "kuda-liar",
+      "away": "singa-laut",
+      "sets": [
+        [
+          5,
+          15
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 11,
+      "home": "elang-perkasa",
+      "away": "badak-baja",
+      "sets": [
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "2026-06-29",
+      "time": "16:30",
+      "venue": "GOR PCR"
+    },
+    {
+      "id": 12,
+      "home": "kobra-hitam",
+      "away": "macan-putih",
+      "sets": [
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 13,
+      "home": "kuda-liar",
+      "away": "macan-putih",
+      "sets": [
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 14,
+      "home": "elang-perkasa",
+      "away": "kobra-hitam",
+      "sets": [
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    },
+    {
+      "id": 15,
+      "home": "singa-laut",
+      "away": "badak-baja",
+      "sets": [
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "date": "",
+      "time": "",
+      "venue": "Sport Hall PCR"
+    }
+  ]
+}
